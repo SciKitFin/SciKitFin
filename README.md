@@ -6,6 +6,6 @@ The project was started by Alexandre Moulti as side project levaring his previou
 
 The philosophy of this library is based on 3 pillars :
 - ready to use for real-life applications. The objective is to be used by structurers, asset managers, ALM practitioners or students
-- multi-asset by default with the objective to describe correctly the most representative instruments of a currency zone. It will be at the expense of correctly the whole currency zone as opposed to model focused or product focused. (ie the objective will be to describe correctly the most representative instruments within a currency zone)
+- multi-asset by default with the objective to describe correctly the most representative instruments of a currency zone.
 - easy to use, hack and compound
 
